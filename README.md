@@ -1,5 +1,7 @@
 # 🟠 Krypton Payload Injector
 
+![Krypton Interface](image.png)
+
 A sleek, independent desktop network utility client designed for stable PS4 payload deployment. Built entirely from scratch with native low-overhead logic and a custom matte-dark interface layout.
 
 ## 🚀 Premium System Features

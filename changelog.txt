@@ -1,0 +1,5 @@
+• Changed default IP template to 192.168.0.0 for faster configuration.
+• Added a hand pointer cursor when hovering over active orange buttons.
+• Added an instant dotted-decimal IPv4 network validation check to prevent typos.
+• Integrated a clean, quick-reset '✕' button for clearing payload file paths.
+• Mapped a global escape-key handler to close the application instantly.
